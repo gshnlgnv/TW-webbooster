@@ -1,0 +1,5 @@
+export const DATA_RECEVIED = 'DATA_RECEVIED';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const PRODUCT_NAME = "PRODUCT_NAME";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const SENDING_DATA_TO_SERVER = "SENDING_DATA_TO_SERVER";

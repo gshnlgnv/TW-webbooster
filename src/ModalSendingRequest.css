@@ -1,0 +1,26 @@
+.modal__main_box {
+    display: flex;
+    flex-direction: column;
+}
+
+.modal__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.modal__forms {
+    display: flex;
+    flex-direction: column;
+}
+
+.modal__input {
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.modal__button {
+    width: 200px;
+    margin-top: 10px;
+}
